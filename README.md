@@ -9,7 +9,7 @@ Upload photo to Instagram without phone, via php.
 
 ## Attention
 1. The cookies.txt must be writable.
-2. The image has to be 400x400 and .jpg format.
+2. The image has to be square and .jpg format.
 
 
 
